@@ -1,0 +1,2 @@
+[run]
+omit = venv/*,conftest.py,coveragerc,main.py,test_app.py

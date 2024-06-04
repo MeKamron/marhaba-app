@@ -1,0 +1,7 @@
+README.md
+setup.py
+marhaba_app.egg-info/PKG-INFO
+marhaba_app.egg-info/SOURCES.txt
+marhaba_app.egg-info/dependency_links.txt
+marhaba_app.egg-info/requires.txt
+marhaba_app.egg-info/top_level.txt
